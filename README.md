@@ -1,0 +1,1 @@
+This project contains a random password generator using JavaScript
